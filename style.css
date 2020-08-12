@@ -6,7 +6,9 @@ input[type=text], select{
   border-radius: 4px;
   box-sizing:border-box;
   border:none;
-   border-bottom: 2px solid rgb(180, 29, 29);
+  border-bottom: 2px solid rgb(180, 29, 29);
+  background-color: #3CBC8D;
+  color:white;
 }
 input[type=submit]{
   width:100%;
